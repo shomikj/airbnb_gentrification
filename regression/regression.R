@@ -1,5 +1,5 @@
 # File: regression.R -- Linear Regression w/Airbnb data + gentrification score
-# Authors: Apurva Gandhi and Shomik Jain
+# Author: Shomik Jain
 # Date: 2/02/2020
 
 install.packages("stargazer")
